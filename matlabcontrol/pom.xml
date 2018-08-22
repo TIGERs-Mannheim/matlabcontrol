@@ -23,7 +23,7 @@
         <dependency>
             <groupId>edu.tigers</groupId>
             <artifactId>jmi-stub</artifactId>
-            <version>5.0.0</version>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

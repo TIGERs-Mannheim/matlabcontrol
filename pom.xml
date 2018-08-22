@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>edu.tigers</groupId>
-  <artifactId>matlabcontrol</artifactId>
+  <artifactId>matlabcontrol-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>matlabcontrol-root</name>
   
   <modules>
-    <module>jmi-stub</module>
+    <module>jmistub</module>
     <module>matlabcontrol</module>
   </modules>
   
